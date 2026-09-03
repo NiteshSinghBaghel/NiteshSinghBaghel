@@ -100,7 +100,7 @@ An LLM-powered tool that converts natural language questions into optimized SQL 
 Full-stack Django platform for tracking, reporting, and management with role-based access and REST APIs.
 `Django` `REST API` `PostgreSQL/MySQL` `Full-Stack`
 
-> More projects on my [GitHub profile](https://github.com/) →
+> More projects on my [GitHub profile](https://github.com/NiteshSinghBaghel) →
 
 ---
 
